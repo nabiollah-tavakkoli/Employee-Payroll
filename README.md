@@ -1,6 +1,5 @@
 # Employee-Payroll
 
-Subjrct
 Every week/month in a company you have to calculate (and send) the salary to each employee.
 There are different types of employees:
 1.employees paid by the hour
